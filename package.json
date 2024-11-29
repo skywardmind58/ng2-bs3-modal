@@ -5,10 +5,10 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/dougludlow/ng2-bs3-modal.git"
+        "url": "git+ssh://git@github.com/skywardmind58/ng2-bs3-modal.git"
     },
     "bugs": {
-        "url": "https://github.com/dougludlow/ng2-bs3-modal/issues"
+        "url": "https://github.com/skywardmind58/ng2-bs3-modal/issues"
     },
     "keywords": [
         "angular",
